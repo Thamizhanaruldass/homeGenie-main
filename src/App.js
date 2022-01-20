@@ -47,6 +47,7 @@ function App() {
       <Cat />
       <Car />
       {addressData}
+      aruldass
       <Footer/>
     </div>
   );
